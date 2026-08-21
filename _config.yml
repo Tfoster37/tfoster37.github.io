@@ -1,16 +1,16 @@
 # Site-wide settings
 # ------------------
 #
-# title: Natalia's Portfolio of Cybersecurity Projects
+title: Natalia's Portfolio of Cybersecurity Projects
 #
-# author:
-#   name: Natalia "T" Foster 
-#   email: nataliafoster.cyber@gmail.com
+author:
+name: Natalia "T" Foster 
+email: nataliafoster.cyber@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
-# description: >
-#   To showcase my abilities 
+description: >
+ To showcase my abilities 
 
 # Build settings
 # --------------
